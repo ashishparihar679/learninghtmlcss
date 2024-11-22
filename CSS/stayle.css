@@ -1,0 +1,17 @@
+body{
+    background-color: red;
+}
+.student{
+    color: blue;
+    text-align: center;
+font-size: 140px;
+/* text-decoration: overline; */
+text-decoration: underline;
+/* text-decoration-style: dashed; */
+text-decoration-style:double;
+}
+#good{
+
+    color: green;
+    text-decoration: line-through;
+}
