@@ -1,0 +1,27 @@
+#ashish{
+    font-size: 80px;
+    color: yellowgreen;
+    background-color: brown;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: wavy ;
+    font-style: oblique;
+}
+.parihar{
+    font-weight: 900;
+}
+
+#ok{
+    text-transform: capitalize;
+    text-shadow: 6px 7px 5px purple;
+}
+.python{
+    background-color: yellowgreen;
+    color: blueviolet;
+}
+#okay{
+    background-color: coral;
+}
+.batan{
+    background-color: yellow;
+}
