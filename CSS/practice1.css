@@ -25,3 +25,36 @@
 .batan{
     background-color: yellow;
 }
+#hello1{
+    
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    text-decoration:line-through;
+    text-decoration-style: wavy;
+    text-align: center;
+}
+#hello2{
+    
+    font-family: "Bungee Spice", sans-serif;
+    text-decoration:line-through;
+    text-decoration-style: wavy;
+    text-align: center;
+}
+#hello3{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    text-decoration:line-through;
+    text-decoration-style: wavy;
+    text-align: center;
+}
+#bro{
+    background-color: rgb(249, 240, 255);
+}
+#bro h1{
+color: blue;
+
+}
+#bro p{
+    text-decoration: underline;
+    }
+#bro button{
+    padding: 20px;
+}

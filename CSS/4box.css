@@ -1,0 +1,15 @@
+.container{
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 80px;
+    /* margin-top: 20px; */
+    /* margin-left: 50px; */
+    /* border: 13px dotted green; */
+    /* thikness=13px,    type=solid,    colur=greeen */
+    /* border-left: 15px dotted yellow; */
+    
+    border-radius: 30px;
+    /* border-top-right-radius: 60px; */
+    box-shadow: -5px -5px 4px 3px red;
+     /* horizontal =5, warticle=5 blur=4 spred=3 color  */
+}
